@@ -12,3 +12,5 @@ User Interaction: Users can specify the path to the song file within the program
 
 Optional Features: Additional features may include the ability to customize the analysis window, adjust parameters like sampling rate, and explore different color mappings for the spectrum plot.
 ![image](https://github.com/JagadeeshGunti/Audio-Processing/assets/144555870/1712aa2b-fe6f-487e-9237-50687e55bba3)
+
+![image](https://github.com/JagadeeshGunti/Audio-Processing/assets/144555870/d7ed2293-507b-49a3-a87e-f3eb39d98881)
